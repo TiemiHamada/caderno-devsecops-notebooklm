@@ -14,7 +14,7 @@ Conteúdos desenvolvidos:
 - Testes de prompts
 - Resumos e apresentação
 
-As fonts de vídeo inicialmente mapeadas foram:
+As fontes de vídeo inicialmente mapeadas foram:
 
 - https://www.youtube.com/watch?v=CCp30BD9uRo
 - https://www.youtube.com/watch?v=gLJdrXPn0ns
