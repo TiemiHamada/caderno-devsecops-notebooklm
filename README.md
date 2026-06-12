@@ -28,3 +28,16 @@ Já as fontes de texto mapeadas foram:
 - https://www.ibm.com/br-pt/think/topics/devsecops
 - https://www.microsoft.com/pt-br/security/business/security-101/what-is-devsecops
 - https://medium.com/@syrinedoukali19/creating-a-devsecops-solution-for-a-data-engineering-application-259db66da906
+
+Algumas perguntas estratégicas realizadas no NotebookLM foram:
+
+- Explique o conceito de DevSecOps para um iniciante na área.
+- Poderia me explicar o conceito e importância de DevSecOps na Engenharia de Dados?
+
+Por fim, para complementar nosso caderno de estudos, solicitamos através dos formatos de estúdio disponíveis:
+
+- Resumo em Voz
+- Resumo em Vídeo
+- Apresentação
+- Mapa Mental
+- Guia de Estudo
